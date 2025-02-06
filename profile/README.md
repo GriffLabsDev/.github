@@ -11,6 +11,7 @@ Hi! We build deep dech opearting at the intersection of biotech, computation and
 ### Machine Learning & AI ⚙️
 - 🧠 **Machine Learning & Data Models**: Applied to image, audio, video and timeseries data.
 - 🎥 **AI Models for Large Data Processing**: Automating processes for extensive formats like video.
+- 🎥 **Large Language Models**: Automating workflows, retrieval augmentation generation (RAG), data validation.
 
 ### Data Science & Computational Biology 🔬
 - 🔗 **Integrated Multi-omic+Clinical Dataset**: Critical for secure "go/no-go" decision making.
