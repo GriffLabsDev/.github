@@ -30,7 +30,7 @@ A non-exhaustive list of things I've shipped with partners:
 - Industrial-scale document processing with VLMs, NER+L, and RAG / GraphRAG systems
 
 **Biotech & Healthcare**
-- Multi-omic and clinical data unified into something a team can decide from
+- Multi-omic and clinical data unified into a single decision-grade view
 - Assay design and DOE modelling with cost as a first-class variable
 - High-dimensional analytics built for the people running the experiments
 
