@@ -18,7 +18,7 @@
 
 ---
 
-Griff Labs accelerates companies of all scales to realise their ambitions in spaces as diverse as industrial biotech, synthetic biology, healthcare, agriculture, finance, GIS and engineering. I've worked across labs at MIT and Harvard, built multiple venture-backed startups, and deployed AI systems in enterprise healthcare - experiences I leverage...
+Griff Labs accelerates companies of all scales to realise their ambitions in spaces as diverse as industrial biotech, synthetic biology, healthcare, agriculture, finance, GIS and engineering. I've worked across labs at MIT and Harvard, built multiple venture-backed startups, and deployed AI systems in enterprise healthcare - experiences I leverage to help companies build.
 
 A non-exhaustive list of things I've shipped with partners:
 
