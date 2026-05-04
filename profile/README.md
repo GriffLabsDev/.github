@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Citations-2200%2B-1A73E8?style=flat-square&logo=googlescholar&logoColor=white" alt="2200+ citations" />
   <img src="https://img.shields.io/badge/Publications-17-1A73E8?style=flat-square&logo=googlescholar&logoColor=white" alt="17 publications" />
-  <img src="https://img.shields.io/badge/LLMs-000000?style=flat-square&logo=openai&logoColor=white" alt="LLMs" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
