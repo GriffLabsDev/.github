@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/GriffLabsDev/.github/main/profile/header.jpeg" alt="griff labs" width="100%" />
 </p>
 
-<h1 align="center">griff labs</h1>
+<h1 align="center">grifflabs.dev</h1>
 
 <p align="center">
   <em>Deep tech at the intersection of biotech, computation, and engineering.</em>
