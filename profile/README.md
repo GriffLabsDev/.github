@@ -1,9 +1,18 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GriffLabsDev/.github/main/profile/banner.svg" alt="griff labs" width="640" />
-</p>
+<h1 align="center">griff labs</h1>
 
 <p align="center">
   <em>Deep tech at the intersection of biotech, computation, and engineering.</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/LLMs-000000?style=flat-square&logo=openai&logoColor=white" alt="LLMs" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
 </p>
 
 ---
@@ -33,10 +42,10 @@ I tend to take on work where the right answer isn't obvious yet, and I like havi
 
 ---
 
-<sub>
+<p align="center">
   <a href="mailto:contact@grifflabs.dev">contact@grifflabs.dev</a>
   &nbsp;&middot;&nbsp;
   <a href="https://www.linkedin.com/in/brendangriffen/">LinkedIn</a>
   &nbsp;&middot;&nbsp;
   <a href="https://twitter.com/brendangriffen">Twitter</a>
-</sub>
+</p>
