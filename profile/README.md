@@ -25,7 +25,7 @@
 
 ---
 
-Experienced in accelerating companies of all scales to realise their ambitions in spaces as diverse as industrial biotech, synthetic biology, healthcare, agriculture, finance, GIS and engineering. My experience runs from labs at MIT and Harvard, through multiple venture-backed startups, into enterprise healthcare. Most of my work lives in the gap between an experimental capability and a system that other people can actually use day-to-day.
+Experienced in accelerating companies of all scales to realise their ambitions in spaces as diverse as industrial biotech, synthetic biology, healthcare, agriculture, finance, GIS and engineering. I've worked across labs at MIT and Harvard, multiple venture-backed startups, and enterprise healthcare. Most of my work lives in the gap between an experimental capability and a system that other people can actually use day-to-day.
 
 A non-exhaustive list of things I've shipped with partners:
 
