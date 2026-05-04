@@ -1,43 +1,42 @@
-# Welcome to Griff Labs! 🌟
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GriffLabsDev/.github/main/profile/banner.svg" alt="griff labs" width="640" />
+</p>
 
-Hi! We build deep dech opearting at the intersection of biotech, computation and engineering. Below is a snapshot of the projects we've built with partners, utilizing cutting-edge technologies and methodologies.
-
-## Expertise & Services 🔧
-
-### Data Engineering & Cloud Solutions ☁️
-- 🌩️ **Cloud-based Multi-modal ETL Data Pipeline**: Developed across AWS, GCP, Azure.
-- 🤖 **Serverless Cloud Compute Infrastructure**: Enabled for multi-site ingestion and processing.
-
-### Machine Learning & AI ⚙️
-- 🧠 **Machine Learning & Data Models**: Applied to image, audio, video and timeseries data.
-- 🎥 **AI Models for Large Data Processing**: Automating processes for extensive formats like video.
-- 🎥 **Large Language Models**: Automating workflows, retrieval augmentation generation (RAG), data validation.
-
-### Data Science & Computational Biology 🔬
-- 🔗 **Integrated Multi-omic+Clinical Dataset**: Critical for secure "go/no-go" decision making.
-- 🧬 **High-throughput Microscopy Analyses**: Utilizing AI-driven computer vision.
-- 🤝 **Integrating Custom OEM Hardware**: Such as robotic liquid handlers and microfluidics.
-- 👨‍🔬 **Interactive Cloud-based Analysis Tools**: For creating and executing digital protocols.
-
-### Interactive Tools & Applications 🛠️
-- 🖥️ **Interactive UI Tools**: Designed for custom machine learning models of high-N dimensional datasets.
-
-### Research & Development 🚀
-- 📊 **Design of Experiment (DOE) Modeling**: Optimized assay design using cost models.
-- 🧪 **Process Optimization**: Enhancements in both in vitro and in silico systems.
-- ⚗️ **Interactive Assay Metadata Handling Suites**: Closing the loop on the "design-build-test-learn" approaches.
-
-## Additional Capabilities ✨
-- 🧰 **Distributed ML Models**: Supervised and unsupervised.
-- 🏭 **High-dimensional Optimization & Statistical Modeling**.
+<p align="center">
+  <em>Deep tech at the intersection of biotech, computation, and engineering.</em>
+</p>
 
 ---
 
-We are always open to new collaborations. As we have extensive experience in early stage capability building and the skin in the game required to build the right tool for job, we find the fastest path to impact without the guff. 🚀
+I build research and production systems for groups working on hard problems in biology, chemistry, and adjacent sciences. My experience runs from labs at MIT and Harvard, through multiple venture-backed startups, into enterprise healthcare. Most of my work lives in the gap between an experimental capability and a system that other people can actually use day-to-day.
 
-## Let's Connect! 📬
+A non-exhaustive list of things I've shipped with partners:
 
-- **Email**: [contact@grifflabs.dev](mailto:contact@grifflabs.dev)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/brendangriffen/)
-- **Twitter**: [@brendangriffen](https://twitter.com/brendangriffen)
+**AI & Machine Learning**
+- Agentic systems and LLM pipelines, with the evals and observability to run unsupervised
+- Speech, vision, and multi-modal models wired into real products, not demos
+- Computer vision at scientific throughput: microscopy, imaging, video at scale
+- Custom training and fine-tuning when off-the-shelf isn't sharp enough
+- Industrial-scale document processing with VLMs, NER+L, and RAG / GraphRAG systems
 
+**Biotech & Healthcare**
+- Multi-omic and clinical data unified into something a team can decide from
+- Assay design and DOE modelling with cost as a first-class variable
+- High-dimensional analytics built for the people running the experiments
+
+**Engineering & Computer Science**
+- Multi-cloud data platforms (AWS &middot; GCP &middot; Azure) for messy, multi-modal pipelines
+- Serverless ingestion across distributed sites, instruments, and sensors
+- OEM hardware integrations: liquid handlers, microfluidics, custom drivers
+
+I tend to take on work where the right answer isn't obvious yet, and I like having skin in the game while figuring it out. If that sounds like the kind of thing you're doing, get in touch.
+
+---
+
+<sub>
+  <a href="mailto:contact@grifflabs.dev">contact@grifflabs.dev</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://www.linkedin.com/in/brendangriffen/">LinkedIn</a>
+  &nbsp;&middot;&nbsp;
+  <a href="https://twitter.com/brendangriffen">Twitter</a>
+</sub>
