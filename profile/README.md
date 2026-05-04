@@ -48,6 +48,10 @@ A non-exhaustive list of things I've shipped with partners:
 
 I tend to take on work where the right answer isn't obvious yet, and I like having skin in the game while figuring it out. If that sounds like the kind of thing you're doing, get in touch.
 
+Experienced in accelerating companies of all scales to realise their ambitions in spaces as diverse as industrial biotech, synthetic biology, healthcare, agriculture, finance, GIS and engineering.
+
+More than just solving problems, but trying to create a more exciting future.
+
 ---
 
 <p align="center">
