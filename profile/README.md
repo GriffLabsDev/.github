@@ -41,7 +41,7 @@ A non-exhaustive list of things I've shipped with partners:
 
 Having been a founder multiple times, I index on having skin in the game and respecting your time. If there's no value, I'll call it out immediately and introduce you to my network where a better fit might be found.
 
-If you connected with any of the above, please get in touch!
+If you connected with any of the above, please get in touch! ☕
 
 ---
 
