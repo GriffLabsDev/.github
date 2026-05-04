@@ -39,9 +39,9 @@ A non-exhaustive list of things I've shipped with partners:
 - Serverless ingestion across distributed sites, instruments, and sensors
 - OEM hardware integrations: liquid handlers, microfluidics, custom drivers
 
-I tend to take on work where the right answer isn't obvious yet, and I like having skin in the game while figuring it out. More than just solving problems, but trying to create a more exciting future.
+Having been a founder multiple times, I index on having skin in the game and respecting your time. If there's no value, I'll call it out immediately and introduce you to my network where a better fit might be found. More than just solving problems, but trying to create a more exciting future.
 
-If that sounds like you, please get in touch.
+If you connected with any of the above, please get in touch!
 
 ---
 
