@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GriffLabsDev/.github/main/profile/header.jpeg" alt="griff labs" width="100%" />
+</p>
+
 <h1 align="center">griff labs</h1>
 
 <p align="center">
@@ -5,6 +9,8 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Citations-2200%2B-1A73E8?style=flat-square&logo=googlescholar&logoColor=white" alt="2200+ citations" />
+  <img src="https://img.shields.io/badge/Publications-17-1A73E8?style=flat-square&logo=googlescholar&logoColor=white" alt="17 publications" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/LLMs-000000?style=flat-square&logo=openai&logoColor=white" alt="LLMs" />
