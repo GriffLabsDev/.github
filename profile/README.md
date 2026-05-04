@@ -43,7 +43,7 @@ Having been a founder multiple times, I index on having skin in the game and res
 
 If you connected with any of the above, please get in touch! ☕
 
-Yes, "building software has gone to zero" but a recent sage wrote, "You can outsource your intelligence but you can't outsource your understanding."
+> And yes, in the age of AI... "building software has gone to zero" but a recent sage wrote, *"You can outsource your intelligence but you can't outsource your understanding."*
 
 ---
 
