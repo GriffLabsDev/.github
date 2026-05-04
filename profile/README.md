@@ -25,7 +25,7 @@
 
 ---
 
-I build research and production systems for groups working on hard problems in biology, chemistry, and adjacent sciences. My experience runs from labs at MIT and Harvard, through multiple venture-backed startups, into enterprise healthcare. Most of my work lives in the gap between an experimental capability and a system that other people can actually use day-to-day.
+Experienced in accelerating companies of all scales to realise their ambitions in spaces as diverse as industrial biotech, synthetic biology, healthcare, agriculture, finance, GIS and engineering. My experience runs from labs at MIT and Harvard, through multiple venture-backed startups, into enterprise healthcare. Most of my work lives in the gap between an experimental capability and a system that other people can actually use day-to-day.
 
 A non-exhaustive list of things I've shipped with partners:
 
@@ -47,8 +47,6 @@ A non-exhaustive list of things I've shipped with partners:
 - OEM hardware integrations: liquid handlers, microfluidics, custom drivers
 
 I tend to take on work where the right answer isn't obvious yet, and I like having skin in the game while figuring it out. If that sounds like the kind of thing you're doing, get in touch.
-
-Experienced in accelerating companies of all scales to realise their ambitions in spaces as diverse as industrial biotech, synthetic biology, healthcare, agriculture, finance, GIS and engineering.
 
 More than just solving problems, but trying to create a more exciting future.
 
