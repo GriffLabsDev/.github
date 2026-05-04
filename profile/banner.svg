@@ -48,10 +48,10 @@
     }
   </style>
 
-  <g transform="translate(40, 0)">
-    <text x="0" y="110" class="word fadein">griff labs</text>
-    <line x1="6" y1="138" x2="486" y2="138" class="rule" />
-    <circle cx="486" cy="138" r="3" class="dot" />
-    <text x="6" y="172" class="sub fadein-delay">BIOTECH &#183; COMPUTATION &#183; ENGINEERING</text>
+  <g text-anchor="middle">
+    <text x="400" y="110" class="word fadein">griff labs</text>
+    <line x1="160" y1="138" x2="640" y2="138" class="rule" />
+    <circle cx="640" cy="138" r="3" class="dot" />
+    <text x="400" y="172" class="sub fadein-delay">BIOTECH &#183; COMPUTATION &#183; ENGINEERING</text>
   </g>
 </svg>
