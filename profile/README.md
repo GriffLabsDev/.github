@@ -50,6 +50,8 @@ I tend to take on work where the right answer isn't obvious yet, and I like havi
 
 More than just solving problems, but trying to create a more exciting future.
 
+If you're just toying with an idea or an enterprise trying to accelerate, please get in touch.
+
 ---
 
 <p align="center">
