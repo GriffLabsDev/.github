@@ -32,7 +32,7 @@ A non-exhaustive list of things I've shipped with partners:
 **Biotech & Healthcare**
 - Multi-omic and clinical data unified into a single decision-grade view
 - Assay design and DOE modelling with cost as a first-class variable
-- High-dimensional analytics built for the people running the experiments
+- High-dimensional analytics designed for the scientists running the experiments
 
 **Engineering & Computer Science**
 - Multi-cloud data platforms (AWS &middot; GCP &middot; Azure) for messy, multi-modal pipelines
