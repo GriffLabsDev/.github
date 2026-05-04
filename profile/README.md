@@ -5,7 +5,7 @@
 <h1 align="center">grifflabs.dev</h1>
 
 <p align="center">
-  <em>Deep tech at the intersection of biotech, computation, and engineering.</em>
+  <em>Deep tech at the intersection of biotech, computer science and engineering.</em>
 </p>
 
 <p align="center">
@@ -51,6 +51,8 @@ I tend to take on work where the right answer isn't obvious yet, and I like havi
 ---
 
 <p align="center">
+  <a href="https://grifflabs.dev">grifflabs.dev</a>
+  &nbsp;&middot;&nbsp;
   <a href="mailto:contact@grifflabs.dev">contact@grifflabs.dev</a>
   &nbsp;&middot;&nbsp;
   <a href="https://www.linkedin.com/in/brendangriffen/">LinkedIn</a>
